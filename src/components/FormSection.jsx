@@ -111,7 +111,7 @@ const Form = () => {
             Get a Free Landing Page in 5-10 Days!
           </h1>
           <p className="mt-5 md:text-md text-sm lg:mb-0 mb-12">
-            Fill out the form and we&rsquo;ll design and develop a custom landing page
+            Fill out the form and we&apos;ll design and develop a custom landing page
             for you, free of charge. Your landing page will be ready to go live
             in just 5-10 days!
           </p>
